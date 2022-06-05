@@ -84,7 +84,7 @@ img{
     background-position: center top;
 }
 #home{
-    background-image: url(/Users/openya/Desktop/project/HIPCafe/images/main-bg.jpg);
+    background-image: url(https://peinyan.github.io/ip/main-bg.jpg);
     min-height: 100vh
 }
 #home .page-title{
